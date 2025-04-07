@@ -17,4 +17,5 @@ p {
     margin: 0px;
 }
 img { width: 1200px; height: auto; }
+html, body { width: 100%; height: 100%; }
 
