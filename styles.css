@@ -16,4 +16,5 @@ p {
     padding: 0px;
     margin: 0px;
 }
+img { width: 100%; height: auto; object-fit: cover; }
 
