@@ -16,5 +16,5 @@ p {
     padding: 0px;
     margin: 0px;
 }
-img { width: 1200px; height: auto; object-fit: cover; }
+img { width: 1200px; height: auto; object-fit: fill; }
 
